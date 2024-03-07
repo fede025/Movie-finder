@@ -1,38 +1,17 @@
-## Enunciado
+# MovieSearch App
 
-Crea una aplicación para buscar películas
+Welcome to MovieSearch, your go-to application for searching movies! Whether you're looking for your favorite film or exploring new ones, MovieSearch has got you covered. This README will guide you through the features, setup, and usage of the application.
 
-API a usar: - https://www.omdbapi.com/
-My API key: 74b6f0de
+## Features
 
-API example: https://www.omdbapi.com/?apikey=74b6f0de&s=avengers
+- **Search**: Easily search for movies by title, actor, director, or genre.
+- **Discover**: Explore trending movies, upcoming releases, and top-rated films.
+- **Details**: Get comprehensive information about each movie, including plot summaries, cast members, ratings, and more.
+- **Favorites**: Save your favorite movies for quick access later.
+- **Watchlist**: Keep track of movies you want to watch in the future.
 
+## Setup
 
-////// TODO
+To get started with MovieSearch, follow these steps:
 
-Requerimientos:
-
-
-
-✅ Que el formulario funcione
-
-✅ Haz que las películas se muestren en un grid responsive.
-
-✅ Hacer el fetching de datos a la API
-
-Primera iteración:
-
-✅ Evitar que se haga la misma búsqueda dos veces seguidas.
-
-✅ Haz que la búsqueda se haga automáticamente al escribir.
-
-✅ Evita que se haga la búsqueda continuamente al escribir (debounce)
-
-
-
-////////// DONE
-
-
-✅ Necesita mostrar un input para buscar la película y un botón para buscar.
-
-✅ Lista las películas y muestra el título, año y poster.
+1. **Clone the repository**: 
