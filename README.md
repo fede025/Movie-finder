@@ -26,7 +26,11 @@ To get started with MovieSearch, follow these steps:
 
 
 3. **API Key**: 
-Obtain an API key from a movie database service (e.g., IMDb API, TMDb API).
+API to use: - https://www.omdbapi.com/
+My API key: 74b6f0de
+API example: https://www.omdbapi.com/?apikey=74b6f0de&s=avengers
+
+
 
 4. **Configure API Key**: 
 Open `config.js` and replace `'YOUR_API_KEY'` with your actual API key.
@@ -35,12 +39,8 @@ Open `config.js` and replace `'YOUR_API_KEY'` with your actual API key.
 
 
 
-
-
-
-
 6. **Open the app**: 
-Once the application is running, navigate to `http://localhost:3000` in your web browser.
+Once the application is running, navigate to `http://localhost:5173` in your web browser.
 
 ## Usage
 
@@ -59,8 +59,3 @@ We welcome contributions to MovieSearch! If you have any feature requests, bug r
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **API Providers**: Thank you to the providers of movie database APIs for making this project possible.
-- **Open Source Community**: MovieSearch was built with the help of various open-source libraries and resources. We're grateful for the contributions of the open-source community.
