@@ -18,11 +18,9 @@ To get started with MovieSearch, follow these steps:
 
 
 
-
-
 2. **Install dependencies**: 
 
-
+'npm install'
 
 
 3. **API Key**: 
